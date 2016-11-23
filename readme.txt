@@ -1,5 +1,5 @@
 
-Simple Bootstrap is a basic Wordpress theme using Boostrap.
+GNA Bootstrap is a basic Wordpress theme using Simple Boostrap.
 
 It is build to very clean, responsive and easy to modify. It supports customizable background and both left and right sidebars (the sidebars only appear if you put widgets in them).
 
@@ -9,9 +9,6 @@ npm install
 bower install
 grunt
 
-Copyright 2015 Nicolas Vanhoren
-Released under the terms of the MIT license.
-
 Simple Boostrap is bundled with:
 
 - Bootstrap (Copyright 2015 Twitter, released under the terms of the MIT license)
@@ -19,11 +16,3 @@ Simple Boostrap is bundled with:
 - Respond.js (Copyright 2011: Scott Jehl, released under terms of the MIT license)
 - Html5shiv (Copyright Alexander Farkas, Jonathan Neal, Paul Irish and John-David Dalton, released under terms of the MIT license)
 
-Images displayed in the screenshot:
-
-- After the Rain by Jarosław Puszczyński ( CC0 - https://tookapic.com/jpuszczynski/15186-after-the-rain )
-- SUP weekend by tania ( CC0 - https://tookapic.com/tania/15159-sup-weekend )
-
-Image used as default background:
-
-- Unnamed image by Kent Henderson ( CC0 - https://unsplash.com/photos/5yOefHJEaGw )
